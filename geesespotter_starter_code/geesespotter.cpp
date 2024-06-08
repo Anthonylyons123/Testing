@@ -237,6 +237,4 @@ int reveal(char * board, std::size_t x_dim, std::size_t y_dim, std::size_t x_loc
         return 0;
     }
    
-   std::cout<<"Hello World";
-    // TEsting tesing 
 }
